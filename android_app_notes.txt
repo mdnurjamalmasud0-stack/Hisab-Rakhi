@@ -1,0 +1,3 @@
+Package/app display name: হিসাব রাখি
+Suggested Android application ID: com.hisabrakhi.app
+Minimum target can be set according to the installed Flutter/Android SDK.
